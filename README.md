@@ -1,4 +1,4 @@
-# karan-some-project
-this is my karan's github repo
+# karan-react-project
+this is complete react.js project 
 <br>
 author - karan gavade
